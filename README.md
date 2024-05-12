@@ -1,0 +1,2 @@
+# Django-DRf
+Django practice
